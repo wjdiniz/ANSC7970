@@ -1,0 +1,2 @@
+Sample	pairs_processed	r1_with_adapters	r2_with_adapters	pairs_written	bp_processed	quality_trimmed	bp_written	percent_trimmed
+SRR957824_500K_R2	500000	8763	7370	500000	150000000	22593538	127352544	15.098304

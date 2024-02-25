@@ -1,0 +1,6 @@
+Module	Section	Sample Name	Source
+Cutadapt	all_sections	SRR957824_500K_R2	/home/wzd0027/lect_omics/lect_5/trim.out
+FastQC	all_sections	SRR957824_500K_R2_trim	/home/wzd0027/lect_omics/lect_5/fqc_trim/SRR957824_500K_R2_trim_fastqc.zip
+FastQC	all_sections	SRR957824_500K_R1_trim	/home/wzd0027/lect_omics/lect_5/fqc_trim/SRR957824_500K_R1_trim_fastqc.zip
+FastQC	all_sections	SRR957824_500K_R2	/home/wzd0027/lect_omics/lect_5/fqc_raw/SRR957824_500K_R2_fastqc.zip
+FastQC	all_sections	SRR957824_500K_R1	/home/wzd0027/lect_omics/lect_5/fqc_raw/SRR957824_500K_R1_fastqc.zip
